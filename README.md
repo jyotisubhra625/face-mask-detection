@@ -34,7 +34,7 @@ The model is compiled with the Adam optimizer and binary cross-entropy loss func
 
 ## Training Steps
 
-The model was trained for 20 epochs with a batch size of 32. The training process is detailed in the `Face Mask Detection using CNN.ipynb` notebook. The training history (accuracy and loss) is plotted to visualize the model's performance over time.
+The model was trained for 5 epochs . The training process is detailed in the `Face Mask Detection using CNN.ipynb` notebook. The training history (accuracy and loss) is plotted to visualize the model's performance over time.
 
 ## Results
 
@@ -66,6 +66,11 @@ To explore the data and the model training process, you can run the Jupyter Note
 ```bash
 jupyter notebook "Face Mask Detection using CNN.ipynb"
 ```
+## 📥 Download Trained Model
+Due to GitHub’s file size limits, the trained model is stored externally.
+
+🔗 Download: https://drive.google.com/file/d/13_FabA_OzqzElkF8FLSbqr8mngp8XOwM/view?usp=sharing
+
 
 ## Project Structure
 ```
@@ -104,6 +109,6 @@ The project requirements are listed in the `requirements.txt` file.
 
 ## Author
 
-- **Jyoti**
+- **Subhrayoti**
 
 Feel free to reach out with any questions or suggestions!
